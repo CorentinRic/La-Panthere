@@ -710,14 +710,41 @@ h2 {
     font-size: 22px;
     line-height: 1.4em;
 }
-
+#h2_com{
+    font-size: 21px;
+    font-weight: 500;
+    letter-spacing: -0.9px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -16px;
+}
+#h2_agency{
+    width: 70%;
+    max-width: 26em;
+    margin-left: auto;
+    margin-right: auto;
+    letter-spacing: -0.8px;
+    margin-top: 10px;
+}
+#h2_re{
+    width: 48%;
+    margin-left: auto;
+    margin-right: auto;
+}
 h3 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
 }
-
+#h3_com{
+    font-size: 21px;
+    font-weight: 100;
+    letter-spacing: -1px;
+    text-transform: none;
+    opacity: 0.8;
+}
 .med-width-whitespace {
     max-width: 800px;
     margin: auto auto auto auto;
