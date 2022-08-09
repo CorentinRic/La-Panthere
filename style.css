@@ -755,7 +755,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgb(88 78 53 / 70%);
     padding: 40px 40px 40px 40px;
 }
 
@@ -773,7 +773,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #6B6869;/*F3976C*/
 }
 
 .tc-white {
@@ -826,6 +826,7 @@ h4 {
 
 .bg-presentation {
     background-image: url("img/image-de-presentation.bmp");
+    z-index: 1;
 }
 
 @media (max-width: 1024px) {
