@@ -850,12 +850,12 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/agence.jpg");
+    background-image: url("img/agence.avif");
     z-index: 1;
 }
 
 .bg-presentation {
-    background-image: url("img/presentation.bmp");
+    background-image: url("img/presentation.avif");
     z-index: 1;
 }
 
